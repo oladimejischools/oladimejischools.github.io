@@ -1,0 +1,17 @@
+#index {
+  width:100%;
+  height:100vh;
+  background-image:url("../../assets/img/IMG_3212.png");
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  background-color:#f2d633;
+}
+
+#prim {
+  background-image:url("../../assets/img/IMG_2065.png");
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+}
+
